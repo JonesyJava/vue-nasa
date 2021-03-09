@@ -26,5 +26,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+img{
+  width: 700px;
+  height: 600px;
+  border-style: solid;
+  border-radius: 20px;
+  box-shadow: 5px 10px 10px black;
+}
 </style>
